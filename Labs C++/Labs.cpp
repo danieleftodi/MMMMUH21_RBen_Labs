@@ -40,6 +40,7 @@ int main()
         cin >> List[i].person_nr;
         cout << "enter Student jobb: ";
         printf("It is much nicer to use printf\n");
+        printf("Pull requests is the way to go...\n");
         cin >> List[i].jobb;
 
       }
