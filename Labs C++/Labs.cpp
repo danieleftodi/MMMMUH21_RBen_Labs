@@ -39,6 +39,7 @@ int main()
         cout << "enter Student person_nr: ";
         cin >> List[i].person_nr;
         cout << "enter Student jobb: ";
+        printf("It is much nicer to use printf\n");
         cin >> List[i].jobb;
 
       }
